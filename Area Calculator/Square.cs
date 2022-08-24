@@ -69,31 +69,28 @@ namespace Area_Calculator
         {
             string long1 = textBox1.Text.Trim();
             double a = 1;
-            if (double.TryParse(long1, out a))
-            {
+           
                 decimal m = Convert.ToDecimal(long1);
-                decimal MeasureArea = m * m;
+                decimal tran = (decimal)2.54;
+                decimal s = m * tran;
+                decimal MeasureArea = AreaMathForm.SqureArea(m);
                 decimal Tran = (decimal)6.4516;
                 string company = comboBox1.Text;
                 if (company == "厘米（cm)")
                 {
+                    String Diam = m.ToString("0.000");
                     String str = MeasureArea.ToString("0.000");
-                    string Measure = str + " ";
-                    textBox3.Text = Measure;
+                    textBox3.Text = "边长为" + Diam + "厘米的正方形的面积为" + str + "平方厘米";
                 }
                 else if (company == "英寸（in）")
                 {
+                    String Diam1 = s.ToString("0.000");
                     decimal MeasureArea1 = MeasureArea * Tran;
                     String str1 = MeasureArea1.ToString("0.000");
-                    string Measure1 = str1 + " ";
-                    textBox3.Text = Measure1;
-                }
+                    textBox3.Text = "边长为" + Diam1 + "厘米的正方形的面积为" + str1 + "平方厘米";
+                
             }
-            else
-            {
-                textBox1.Clear();
-                MessageBox.Show("非法输入！");
-            }
+            
 
         }
     }

@@ -57,34 +57,29 @@ namespace Area_Calculator
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string radius = textBox1.Text.Trim();
-            int d = 1;
-            if (int.TryParse(radius, out d))
-            {
-                decimal m = Convert.ToDecimal(radius);
-                decimal pi = (decimal)3.1415916;
-                decimal MeasureArea = m * m * pi;
+            string  diam= textBox1.Text.Trim();
+            double d = 1;
+           
+                decimal m = Convert.ToDecimal(diam);
+                decimal tran = (decimal)2.54;
+                decimal s = m * tran;
+                decimal MeasureArea = AreaMathForm.RoundArea(m);
                 decimal Tran = (decimal)6.4516;
                 string company = comboBox1.Text;
                 if (company == "厘米（cm)")
                 {
+                    String Diam = m.ToString("0.000");
                     String str = MeasureArea.ToString("0.000");
-                    string Measure = str + " ";
-                    textBox3.Text = Measure;
+                    textBox3.Text = "直径为" + Diam + "厘米的圆的面积为" + str + "平方厘米";
                 }
                 else if (company == "英寸（in）")
                 {
+                    String Diam1 = s.ToString("0.000");
                     decimal MeasureArea1 = MeasureArea * Tran;
                     String str1 = MeasureArea1.ToString("0.000");
-                    string Measure1 = str1 + " ";
-                    textBox3.Text = Measure1;
+                    textBox3.Text = "直径为" + Diam1 + "厘米的圆的面积为" + str1 + "平方厘米";
                 }
             }
-            else
-            {
-                textBox1.Clear();
-                MessageBox.Show("非法输入！");
-            }
-        }
+           
     }
 }

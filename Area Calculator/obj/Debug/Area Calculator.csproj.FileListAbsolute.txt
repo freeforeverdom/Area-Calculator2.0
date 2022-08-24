@@ -13,3 +13,48 @@ E:\Microsoft Visual Studio\2022\repos\Area Calculator\Area Calculator\obj\Debug\
 E:\Microsoft Visual Studio\2022\repos\Area Calculator\Area Calculator\obj\Debug\Area Calculator.csproj.CoreCompileInputs.cache
 E:\Microsoft Visual Studio\2022\repos\Area Calculator\Area Calculator\obj\Debug\Area Calculator.exe
 E:\Microsoft Visual Studio\2022\repos\Area Calculator\Area Calculator\obj\Debug\Area Calculator.pdb
+D:\Gitrepos\project\Area-Calculator\Area Calculator\bin\Debug\Area Calculator.exe.config
+D:\Gitrepos\project\Area-Calculator\Area Calculator\bin\Debug\Area Calculator.exe
+D:\Gitrepos\project\Area-Calculator\Area Calculator\bin\Debug\Area Calculator.pdb
+D:\Gitrepos\project\Area-Calculator\Area Calculator\obj\Debug\Area Calculator.csproj.AssemblyReference.cache
+D:\Gitrepos\project\Area-Calculator\Area Calculator\obj\Debug\Area Calculator.csproj.SuggestedBindingRedirects.cache
+D:\Gitrepos\project\Area-Calculator\Area Calculator\obj\Debug\Area_Calculator.begin.resources
+D:\Gitrepos\project\Area-Calculator\Area Calculator\obj\Debug\Area_Calculator.Circular.resources
+D:\Gitrepos\project\Area-Calculator\Area Calculator\obj\Debug\Area_Calculator.Rect.resources
+D:\Gitrepos\project\Area-Calculator\Area Calculator\obj\Debug\Area_Calculator.Properties.Resources.resources
+D:\Gitrepos\project\Area-Calculator\Area Calculator\obj\Debug\Area_Calculator.Square.resources
+D:\Gitrepos\project\Area-Calculator\Area Calculator\obj\Debug\Area_Calculator.Tri.resources
+D:\Gitrepos\project\Area-Calculator\Area Calculator\obj\Debug\Area Calculator.csproj.GenerateResource.cache
+D:\Gitrepos\project\Area-Calculator\Area Calculator\obj\Debug\Area Calculator.csproj.CoreCompileInputs.cache
+D:\Gitrepos\project\Area-Calculator\Area Calculator\obj\Debug\Area Calculator.exe
+D:\Gitrepos\project\Area-Calculator\Area Calculator\obj\Debug\Area Calculator.pdb
+E:\学习\凯默训练营\GitHub\Area-Calculator\Area Calculator\bin\Debug\Area Calculator.exe.config
+E:\学习\凯默训练营\GitHub\Area-Calculator\Area Calculator\bin\Debug\Area Calculator.exe
+E:\学习\凯默训练营\GitHub\Area-Calculator\Area Calculator\bin\Debug\Area Calculator.pdb
+E:\学习\凯默训练营\GitHub\Area-Calculator\Area Calculator\obj\Debug\Area Calculator.csproj.AssemblyReference.cache
+E:\学习\凯默训练营\GitHub\Area-Calculator\Area Calculator\obj\Debug\Area Calculator.csproj.SuggestedBindingRedirects.cache
+E:\学习\凯默训练营\GitHub\Area-Calculator\Area Calculator\obj\Debug\Area_Calculator.begin.resources
+E:\学习\凯默训练营\GitHub\Area-Calculator\Area Calculator\obj\Debug\Area_Calculator.Circular.resources
+E:\学习\凯默训练营\GitHub\Area-Calculator\Area Calculator\obj\Debug\Area_Calculator.Rect.resources
+E:\学习\凯默训练营\GitHub\Area-Calculator\Area Calculator\obj\Debug\Area_Calculator.Properties.Resources.resources
+E:\学习\凯默训练营\GitHub\Area-Calculator\Area Calculator\obj\Debug\Area_Calculator.Square.resources
+E:\学习\凯默训练营\GitHub\Area-Calculator\Area Calculator\obj\Debug\Area_Calculator.Tri.resources
+E:\学习\凯默训练营\GitHub\Area-Calculator\Area Calculator\obj\Debug\Area Calculator.csproj.GenerateResource.cache
+E:\学习\凯默训练营\GitHub\Area-Calculator\Area Calculator\obj\Debug\Area Calculator.csproj.CoreCompileInputs.cache
+E:\学习\凯默训练营\GitHub\Area-Calculator\Area Calculator\obj\Debug\Area Calculator.exe
+E:\学习\凯默训练营\GitHub\Area-Calculator\Area Calculator\obj\Debug\Area Calculator.pdb
+C:\Users\freedomforever\Desktop\版本控制\2\Area Calculator\bin\Debug\Area Calculator.exe.config
+C:\Users\freedomforever\Desktop\版本控制\2\Area Calculator\bin\Debug\Area Calculator.exe
+C:\Users\freedomforever\Desktop\版本控制\2\Area Calculator\bin\Debug\Area Calculator.pdb
+C:\Users\freedomforever\Desktop\版本控制\2\Area Calculator\obj\Debug\Area Calculator.csproj.AssemblyReference.cache
+C:\Users\freedomforever\Desktop\版本控制\2\Area Calculator\obj\Debug\Area Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\freedomforever\Desktop\版本控制\2\Area Calculator\obj\Debug\Area_Calculator.begin.resources
+C:\Users\freedomforever\Desktop\版本控制\2\Area Calculator\obj\Debug\Area_Calculator.Circular.resources
+C:\Users\freedomforever\Desktop\版本控制\2\Area Calculator\obj\Debug\Area_Calculator.Rect.resources
+C:\Users\freedomforever\Desktop\版本控制\2\Area Calculator\obj\Debug\Area_Calculator.Properties.Resources.resources
+C:\Users\freedomforever\Desktop\版本控制\2\Area Calculator\obj\Debug\Area_Calculator.Square.resources
+C:\Users\freedomforever\Desktop\版本控制\2\Area Calculator\obj\Debug\Area_Calculator.Tri.resources
+C:\Users\freedomforever\Desktop\版本控制\2\Area Calculator\obj\Debug\Area Calculator.csproj.GenerateResource.cache
+C:\Users\freedomforever\Desktop\版本控制\2\Area Calculator\obj\Debug\Area Calculator.csproj.CoreCompileInputs.cache
+C:\Users\freedomforever\Desktop\版本控制\2\Area Calculator\obj\Debug\Area Calculator.exe
+C:\Users\freedomforever\Desktop\版本控制\2\Area Calculator\obj\Debug\Area Calculator.pdb

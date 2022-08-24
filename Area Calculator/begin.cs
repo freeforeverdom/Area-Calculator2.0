@@ -34,20 +34,29 @@ namespace Area_Calculator
 
         private void radioButton2_CheckedChanged(object sender, EventArgs e)
         {
-            Square square1 = new Square();
-            square1.Show();
+            if (radioButton2.Checked)
+            {
+                Square square1 = new Square();
+                square1.Show();
+            }
         }
 
         private void radioButton3_CheckedChanged(object sender, EventArgs e)
         {
-            Tri tri1 = new Tri();
-            tri1.Show();
+            if (radioButton3.Checked)
+            {
+                Tri tri1 = new Tri();
+                tri1.Show();
+            }
         }
 
         private void radioButton4_CheckedChanged(object sender, EventArgs e)
         {
-            Circular circular1 = new Circular();
-            circular1.Show();
+            if (radioButton4.Checked)
+            {
+                Circular circular1 = new Circular();
+                circular1.Show();
+            }
         }
     }
 }

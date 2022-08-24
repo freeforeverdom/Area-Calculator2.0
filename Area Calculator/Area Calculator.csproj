@@ -58,6 +58,7 @@
     <Compile Include="Circular.Designer.cs">
       <DependentUpon>Circular.cs</DependentUpon>
     </Compile>
+    <Compile Include="AreaMathForm.cs" />
     <Compile Include="Rect.cs">
       <SubType>Form</SubType>
     </Compile>
