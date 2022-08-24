@@ -1,0 +1,15 @@
+E:\Microsoft Visual Studio\2022\repos\Area Calculator\Area Calculator\bin\Debug\Area Calculator.exe.config
+E:\Microsoft Visual Studio\2022\repos\Area Calculator\Area Calculator\bin\Debug\Area Calculator.exe
+E:\Microsoft Visual Studio\2022\repos\Area Calculator\Area Calculator\bin\Debug\Area Calculator.pdb
+E:\Microsoft Visual Studio\2022\repos\Area Calculator\Area Calculator\obj\Debug\Area Calculator.csproj.AssemblyReference.cache
+E:\Microsoft Visual Studio\2022\repos\Area Calculator\Area Calculator\obj\Debug\Area Calculator.csproj.SuggestedBindingRedirects.cache
+E:\Microsoft Visual Studio\2022\repos\Area Calculator\Area Calculator\obj\Debug\Area_Calculator.begin.resources
+E:\Microsoft Visual Studio\2022\repos\Area Calculator\Area Calculator\obj\Debug\Area_Calculator.Circular.resources
+E:\Microsoft Visual Studio\2022\repos\Area Calculator\Area Calculator\obj\Debug\Area_Calculator.Rect.resources
+E:\Microsoft Visual Studio\2022\repos\Area Calculator\Area Calculator\obj\Debug\Area_Calculator.Properties.Resources.resources
+E:\Microsoft Visual Studio\2022\repos\Area Calculator\Area Calculator\obj\Debug\Area_Calculator.Square.resources
+E:\Microsoft Visual Studio\2022\repos\Area Calculator\Area Calculator\obj\Debug\Area_Calculator.Tri.resources
+E:\Microsoft Visual Studio\2022\repos\Area Calculator\Area Calculator\obj\Debug\Area Calculator.csproj.GenerateResource.cache
+E:\Microsoft Visual Studio\2022\repos\Area Calculator\Area Calculator\obj\Debug\Area Calculator.csproj.CoreCompileInputs.cache
+E:\Microsoft Visual Studio\2022\repos\Area Calculator\Area Calculator\obj\Debug\Area Calculator.exe
+E:\Microsoft Visual Studio\2022\repos\Area Calculator\Area Calculator\obj\Debug\Area Calculator.pdb
