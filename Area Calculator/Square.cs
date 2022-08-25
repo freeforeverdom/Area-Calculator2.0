@@ -69,7 +69,8 @@ namespace Area_Calculator
         {
             string long1 = textBox1.Text.Trim();
             double a = 1;
-            
+            if (double.TryParse(long1, out a))
+            {
                 decimal m = Convert.ToDecimal(long1);
                 decimal tran = (decimal)2.54;
                 decimal s = m * tran;
@@ -90,6 +91,12 @@ namespace Area_Calculator
                     textBox3.Text = "边长为" + Diam1 + "厘米的正方形的面积为" + str1 + "平方厘米";
                 }
             }
-           
+            else
+            {
+                textBox1.Clear();
+                MessageBox.Show("非法输入！");
+            }
+
+        }
     }
 }

@@ -79,7 +79,8 @@ namespace Area_Calculator
             string long1 = textBox1.Text.Trim();
             string width1 = textBox2.Text.Trim();
             double c = 1;
-            
+            if (double.TryParse(long1, out c) && double.TryParse(width1, out c))
+            {
                 decimal m = Convert.ToDecimal(long1);
                 decimal n = Convert.ToDecimal(width1);
                 decimal Tran = (decimal)2.54;
@@ -99,6 +100,12 @@ namespace Area_Calculator
                 String str2 = n.ToString("0.000");
                 textBox3.Text = "长为" + str1 + "厘米，" + "宽为" + str2 + "厘米的长方形的面积为" + str + "平方厘米";
             }
-            
+            else
+            {
+                textBox1.Clear();
+                textBox2.Clear();
+                MessageBox.Show("非法输入！");
+            }
+        }
     }
 }

@@ -59,7 +59,8 @@ namespace Area_Calculator
         {
             string  diam= textBox1.Text.Trim();
             double d = 1;
-            
+            if (double.TryParse(diam, out d))
+            {
                 decimal m = Convert.ToDecimal(diam);
                 decimal tran = (decimal)2.54;
                 decimal s = m * tran;
@@ -80,6 +81,11 @@ namespace Area_Calculator
                     textBox3.Text = "直径为" + Diam1 + "厘米的圆的面积为" + str1 + "平方厘米";
                 }
             }
-            
+            else
+            {
+                textBox1.Clear();
+                MessageBox.Show("非法输入！");
+            }
+        }
     }
 }
