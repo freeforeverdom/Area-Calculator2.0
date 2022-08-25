@@ -82,6 +82,5 @@ namespace Area_Calculator
                 textBox3.Text = "底长为" + str1 + "厘米，" + "高为" + str2 + "厘米的三角形的面积为" + str + "平方厘米";
             }
            
-        
     }
 }

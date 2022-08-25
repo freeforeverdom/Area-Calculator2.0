@@ -69,7 +69,7 @@ namespace Area_Calculator
         {
             string long1 = textBox1.Text.Trim();
             double a = 1;
-           
+            
                 decimal m = Convert.ToDecimal(long1);
                 decimal tran = (decimal)2.54;
                 decimal s = m * tran;
@@ -88,10 +88,8 @@ namespace Area_Calculator
                     decimal MeasureArea1 = MeasureArea * Tran;
                     String str1 = MeasureArea1.ToString("0.000");
                     textBox3.Text = "边长为" + Diam1 + "厘米的正方形的面积为" + str1 + "平方厘米";
-                
+                }
             }
-            
-
-        }
+           
     }
 }

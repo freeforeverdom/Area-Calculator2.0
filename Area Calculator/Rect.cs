@@ -98,8 +98,7 @@ namespace Area_Calculator
                 String str1 = m.ToString("0.000");
                 String str2 = n.ToString("0.000");
                 textBox3.Text = "长为" + str1 + "厘米，" + "宽为" + str2 + "厘米的长方形的面积为" + str + "平方厘米";
+            }
             
-            
-        }
     }
 }
