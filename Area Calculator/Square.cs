@@ -69,7 +69,7 @@ namespace Area_Calculator
         {
             string long1 = textBox1.Text.Trim();
             double a = 1;
-            if (double.TryParse(long1, out a))
+            if (double.TryParse(long1, out a)&&a>0)
             {
                 decimal m = Convert.ToDecimal(long1);
                 decimal tran = (decimal)2.54;

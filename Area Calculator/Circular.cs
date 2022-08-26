@@ -59,7 +59,7 @@ namespace Area_Calculator
         {
             string  diam= textBox1.Text.Trim();
             double d = 1;
-            if (double.TryParse(diam, out d))
+            if (double.TryParse(diam, out d)&&d>0)
             {
                 decimal m = Convert.ToDecimal(diam);
                 decimal tran = (decimal)2.54;

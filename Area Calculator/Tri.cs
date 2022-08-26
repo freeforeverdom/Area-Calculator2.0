@@ -60,8 +60,9 @@ namespace Area_Calculator
         {
             string base1 = textBox1.Text.Trim();
             string height1 = textBox2.Text.Trim();
+            double a = 1;
             double b = 1;
-            if (double.TryParse(base1, out b) && double.TryParse(height1, out b))
+            if (double.TryParse(base1, out a) && double.TryParse(height1, out b)&&a>0&&b>0)
             {
                 decimal m = Convert.ToDecimal(base1);
                 decimal n = Convert.ToDecimal(height1);

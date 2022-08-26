@@ -79,7 +79,8 @@ namespace Area_Calculator
             string long1 = textBox1.Text.Trim();
             string width1 = textBox2.Text.Trim();
             double c = 1;
-            if (double.TryParse(long1, out c) && double.TryParse(width1, out c))
+            double d = 1;
+            if (double.TryParse(long1, out c) && double.TryParse(width1, out d)&&c>0&&d>0)
             {
                 decimal m = Convert.ToDecimal(long1);
                 decimal n = Convert.ToDecimal(width1);
