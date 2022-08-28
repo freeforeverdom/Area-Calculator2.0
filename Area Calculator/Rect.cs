@@ -10,26 +10,51 @@ using System.Windows.Forms;
 
 namespace Area_Calculator
 {
+    /// <summary>
+    /// 主类 <c>Rect : Form</c>
+    /// 包含长方形面积计算界面的按键设置，提供长方形面积计算功能及转到其他图形面积计算的选项
+    /// <list type="bullet">
+    /// <item>
+    /// <term>Rect</term>
+    /// <description>长方形界面的构造函数，调用InitializeComponent()函数构造开始界面</description>
+    /// </item>
+    /// <item>
+    /// <term>radioButton2_CheckedChanged</term>
+    /// <description>2号单选控件（正方形）被选中时初始化并打开正方形计算界面</description>
+    /// </item>
+    /// <item>
+    /// <term>radioButton3_CheckedChanged</term>
+    /// <description>3号单选控件（三角形）被选中时初始化并打开三角形计算界面</description>
+    /// </item>
+    /// <item>
+    /// <term>radioButton4_CheckedChanged</term>
+    /// <description>4号单选控件（圆形）被选中时初始化并打开圆形计算界面</description>
+    /// </item>
+    /// <item>
+    /// <term>Form1_Load</term>
+    /// <description>在加载长方形面积计算界面时使单位下拉选择框初始处于厘米状态</description>
+    /// </item>
+    /// <item>
+    /// <term>button1_Click</term>
+    /// <description>当计算按钮被按下时，读取数字输入框中的数字和单位下拉选择框的单位，判断是否为非法输入，若为非法输入，输出“非法输入！”并清空输入框，
+    /// 若不为非法输入，则通过换算后调用面积计算公式得出面积并输出完整结果在输出框中</description>
+    /// </item>
+    /// </list>
+    /// </summary>
     public partial class Rect : Form
     {
-        
-        
-        
+        /// <summary>
+        /// 长方形界面的构造函数，调用InitializeComponent()函数构造开始界面
+        /// </summary>
         public Rect()
         {
             InitializeComponent();
         }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label2_Click(object sender, EventArgs e)
-        {
-
-        }
-
+        /// <summary>
+        /// 2号单选控件（正方形）被选中时初始化并打开正方形计算界面
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void radioButton2_CheckedChanged(object sender, EventArgs e)
         {
             if(radioButton2.Checked)
@@ -39,21 +64,21 @@ namespace Area_Calculator
                 this.Close();
             }
         }
-
+        /// <summary>
+        /// 在加载长方形面积计算界面时使单位下拉选择框初始处于厘米状态
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void Form1_Load(object sender, EventArgs e)
         {
             comboBox1.SelectedIndex = 0;
             comboBox2.SelectedIndex = 0;
         }
-
-        private void radioButton1_CheckedChanged(object sender, EventArgs e)
-        {
-            if(radioButton1.Checked)
-            {
-
-            }
-        }
-
+        /// <summary>
+        /// 3号单选控件（三角形）被选中时初始化并打开三角形计算界面
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void radioButton3_CheckedChanged(object sender, EventArgs e)
         {
             if (radioButton3.Checked)
@@ -63,7 +88,11 @@ namespace Area_Calculator
                 this.Close ();
             }
         }
-
+        /// <summary>
+        /// 4号单选控件（圆形）被选中时初始化并打开圆形计算界面
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void radioButton4_CheckedChanged(object sender, EventArgs e)
         {
             if (radioButton4.Checked)
@@ -73,14 +102,19 @@ namespace Area_Calculator
                 this.Close () ;
             }
         }
-
+        /// <summary>
+        /// 当计算按钮被按下时，读取数字输入框中的数字和单位下拉选择框的单位，判断是否为非法输入，若为非法输入，输出“非法输入！”并清空输入框，
+        /// 若不为非法输入，则通过换算后调用面积计算公式得出面积并输出完整结果在输出框中
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void button1_Click(object sender, EventArgs e)
         {
             string long1 = textBox1.Text.Trim();
             string width1 = textBox2.Text.Trim();
             double c = 1;
             double d = 1;
-            if (double.TryParse(long1, out c) && double.TryParse(width1, out d)&&c>0&&d>0)
+            if (double.TryParse(long1, out c) && double.TryParse(width1, out d) && c > 0 && d > 0)
             {
                 decimal m = Convert.ToDecimal(long1);
                 decimal n = Convert.ToDecimal(width1);
