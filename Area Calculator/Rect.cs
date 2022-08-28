@@ -74,6 +74,8 @@ namespace Area_Calculator
             comboBox1.SelectedIndex = 0;
             comboBox2.SelectedIndex = 0;
         }
+
+        
         /// <summary>
         /// 3号单选控件（三角形）被选中时初始化并打开三角形计算界面
         /// </summary>

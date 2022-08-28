@@ -141,7 +141,6 @@
             this.label2.Size = new System.Drawing.Size(46, 18);
             this.label2.TabIndex = 1;
             this.label2.Text = "长度";
-            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // label1
             // 
@@ -152,7 +151,6 @@
             this.label1.Size = new System.Drawing.Size(217, 21);
             this.label1.TabIndex = 0;
             this.label1.Text = "请输入长度与宽度：";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // groupBox2
             // 
@@ -214,7 +212,6 @@
             this.radioButton1.TabStop = true;
             this.radioButton1.Text = "长方形";
             this.radioButton1.UseVisualStyleBackColor = true;
-            this.radioButton1.CheckedChanged += new System.EventHandler(this.radioButton1_CheckedChanged);
             // 
             // Rect
             // 

@@ -43,15 +43,3 @@ E:\学习\凯默训练营\GitHub\Area-Calculator\Area Calculator\obj\Debug\Area 
 E:\学习\凯默训练营\GitHub\Area-Calculator\Area Calculator\obj\Debug\Area Calculator.csproj.CoreCompileInputs.cache
 E:\学习\凯默训练营\GitHub\Area-Calculator\Area Calculator\obj\Debug\Area Calculator.exe
 E:\学习\凯默训练营\GitHub\Area-Calculator\Area Calculator\obj\Debug\Area Calculator.pdb
-C:\Users\freedomforever\Desktop\GITHUB\Area-Calculator2.0\Area Calculator\obj\Debug\Area Calculator.csproj.AssemblyReference.cache
-C:\Users\freedomforever\Desktop\GITHUB\Area-Calculator2.0\Area Calculator\obj\Debug\Area Calculator.csproj.SuggestedBindingRedirects.cache
-C:\Users\freedomforever\Desktop\GITHUB\Area-Calculator2.0\Area Calculator\obj\Debug\Area_Calculator.begin.resources
-C:\Users\freedomforever\Desktop\GITHUB\Area-Calculator2.0\Area Calculator\obj\Debug\Area_Calculator.Circular.resources
-C:\Users\freedomforever\Desktop\GITHUB\Area-Calculator2.0\Area Calculator\obj\Debug\Area_Calculator.Rect.resources
-C:\Users\freedomforever\Desktop\GITHUB\Area-Calculator2.0\Area Calculator\obj\Debug\Area_Calculator.Properties.Resources.resources
-C:\Users\freedomforever\Desktop\GITHUB\Area-Calculator2.0\Area Calculator\obj\Debug\Area_Calculator.Square.resources
-C:\Users\freedomforever\Desktop\GITHUB\Area-Calculator2.0\Area Calculator\obj\Debug\Area_Calculator.Tri.resources
-C:\Users\freedomforever\Desktop\GITHUB\Area-Calculator2.0\Area Calculator\obj\Debug\Area Calculator.csproj.GenerateResource.cache
-C:\Users\freedomforever\Desktop\GITHUB\Area-Calculator2.0\Area Calculator\obj\Debug\Area Calculator.csproj.CoreCompileInputs.cache
-C:\Users\freedomforever\Desktop\GITHUB\Area-Calculator2.0\Area Calculator\obj\Debug\Area Calculator.exe
-C:\Users\freedomforever\Desktop\GITHUB\Area-Calculator2.0\Area Calculator\obj\Debug\Area Calculator.pdb

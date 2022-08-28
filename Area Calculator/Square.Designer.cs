@@ -121,7 +121,6 @@
             this.groupBox1.TabIndex = 2;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "正方形面积计算";
-            this.groupBox1.Enter += new System.EventHandler(this.groupBox1_Enter);
             // 
             // comboBox1
             // 
@@ -169,7 +168,6 @@
             this.label2.Size = new System.Drawing.Size(46, 18);
             this.label2.TabIndex = 1;
             this.label2.Text = "边长";
-            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // label1
             // 
