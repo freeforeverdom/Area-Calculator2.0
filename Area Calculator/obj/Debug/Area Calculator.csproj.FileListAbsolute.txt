@@ -43,3 +43,18 @@ E:\学习\凯默训练营\GitHub\Area-Calculator\Area Calculator\obj\Debug\Area 
 E:\学习\凯默训练营\GitHub\Area-Calculator\Area Calculator\obj\Debug\Area Calculator.csproj.CoreCompileInputs.cache
 E:\学习\凯默训练营\GitHub\Area-Calculator\Area Calculator\obj\Debug\Area Calculator.exe
 E:\学习\凯默训练营\GitHub\Area-Calculator\Area Calculator\obj\Debug\Area Calculator.pdb
+E:\学习\凯默训练营\GitHub\擦粗\Area-Calculator2.0\Area Calculator\bin\Debug\Area Calculator.exe.config
+E:\学习\凯默训练营\GitHub\擦粗\Area-Calculator2.0\Area Calculator\bin\Debug\Area Calculator.exe
+E:\学习\凯默训练营\GitHub\擦粗\Area-Calculator2.0\Area Calculator\bin\Debug\Area Calculator.pdb
+E:\学习\凯默训练营\GitHub\擦粗\Area-Calculator2.0\Area Calculator\obj\Debug\Area Calculator.csproj.AssemblyReference.cache
+E:\学习\凯默训练营\GitHub\擦粗\Area-Calculator2.0\Area Calculator\obj\Debug\Area Calculator.csproj.SuggestedBindingRedirects.cache
+E:\学习\凯默训练营\GitHub\擦粗\Area-Calculator2.0\Area Calculator\obj\Debug\Area_Calculator.begin.resources
+E:\学习\凯默训练营\GitHub\擦粗\Area-Calculator2.0\Area Calculator\obj\Debug\Area_Calculator.Circular.resources
+E:\学习\凯默训练营\GitHub\擦粗\Area-Calculator2.0\Area Calculator\obj\Debug\Area_Calculator.Rect.resources
+E:\学习\凯默训练营\GitHub\擦粗\Area-Calculator2.0\Area Calculator\obj\Debug\Area_Calculator.Properties.Resources.resources
+E:\学习\凯默训练营\GitHub\擦粗\Area-Calculator2.0\Area Calculator\obj\Debug\Area_Calculator.Square.resources
+E:\学习\凯默训练营\GitHub\擦粗\Area-Calculator2.0\Area Calculator\obj\Debug\Area_Calculator.Tri.resources
+E:\学习\凯默训练营\GitHub\擦粗\Area-Calculator2.0\Area Calculator\obj\Debug\Area Calculator.csproj.GenerateResource.cache
+E:\学习\凯默训练营\GitHub\擦粗\Area-Calculator2.0\Area Calculator\obj\Debug\Area Calculator.csproj.CoreCompileInputs.cache
+E:\学习\凯默训练营\GitHub\擦粗\Area-Calculator2.0\Area Calculator\obj\Debug\Area Calculator.exe
+E:\学习\凯默训练营\GitHub\擦粗\Area-Calculator2.0\Area Calculator\obj\Debug\Area Calculator.pdb
